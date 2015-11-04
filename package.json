@@ -1,0 +1,22 @@
+{
+  "name": "how-much-in-x",
+  "version": "0.0.1",
+  "description": "A little extension to convert prices on ecommerce sites to local currency (LKR only for now)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamnan/how-much-in-x.git"
+  },
+  "author": "thamnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamnan/how-much-in-x/issues"
+  },
+  "homepage": "https://github.com/thamnan/how-much-in-x#readme",
+  "dependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
