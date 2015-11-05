@@ -1,0 +1,12 @@
+{
+  "name": "How much in X",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "A little extension to convert prices on ecommerce sites to local currency (LKR only for now)",
+  "permissions": [
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
+
