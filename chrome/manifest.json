@@ -4,6 +4,7 @@
   "manifest_version": 2,
   "description": "A little extension to convert prices on ecommerce sites to local currency (LKR only for now)",
   "permissions": [
+    "http://query.yahooapis.com/*"
   ],
   "background": {
     "scripts": ["background.js"]
